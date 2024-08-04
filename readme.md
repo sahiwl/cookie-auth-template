@@ -22,11 +22,11 @@
 ## Postman Screenshots 🚀
 
 ### app.post('/signin', ...)
-![alt text](image.png)
+![alt text](./frontend/public/image.png)
 
 ### app.get('/user', ...)
-![alt text](image-2.png)
+![alt text](./frontend/public/image-2.png)
 
 
 ### cached cookies
-![alt text](image-1.png)
+![alt text](./frontend/public/image-1.png)
